@@ -93,8 +93,10 @@ We welcome contributions! Follow these steps:
 This project is licensed under the MIT License – see the `LICENSE` file for details.
 
 ### Why MIT License?
+
 The MIT License was chosen because it provides a balance between open-source flexibility and legal protection. It allows anyone to use, modify, and distribute the project while ensuring that the original creators are credited. This promotes collaboration and adoption without restrictive limitations.
 This project is licensed under the MIT License – see the `LICENSE` file for details.
+
 ---
 
 ## 📧 Contact
